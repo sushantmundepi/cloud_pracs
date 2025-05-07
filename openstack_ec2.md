@@ -173,6 +173,6 @@ If successful, you should see a list of active OpenStack services.
 
 You have successfully deployed OpenStack on an AWS EC2 instance. You can now use the Horizon Dashboard or OpenStack CLI to manage cloud instances, networking, and storage.
 
-For more advanced configurations and troubleshooting, refer to the [DevStack Documentation](https://github.com/openstack/devstack).
+For more advanced configurations and troubleshooting, refer to the [DevStack Documentation](https://github.com/openstack/devstack)
 
 
